@@ -9,7 +9,7 @@
     "email" : "nick@noodles.net.nz"
   } ],
   "support": {
-    "issues": "https://github.com/NoodlesNZ/double-metaphone/issues",
+    "issues": "https://github.com/NoodlesNZ/double-metaphone/issues"
   },
   "autoload": {
     "classmap": [
