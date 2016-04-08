@@ -302,7 +302,7 @@ class DoubleMetaphoneTest extends \PHPUnit_Framework_TestCase
       ['ghislane', ['JLN', 'JLN']],
       ['tagliaro', ['TKLR', 'TLR']],
       ['zhao', ['J', 'J']],
-      ['filipowicz', ['asd', 'asd']]
+      ['filipowicz', ['FLPT', 'FLPF']]
     ];
   }
 }
