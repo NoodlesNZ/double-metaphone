@@ -1,6 +1,4 @@
 <?php
-namespace NoodlesNZ\DoubleMetaphone;
-
 // VERSION DoubleMetaphone Class 1.01
 //
 // DESCRIPTION
