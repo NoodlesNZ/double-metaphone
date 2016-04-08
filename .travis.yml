@@ -4,7 +4,8 @@ before_script:
   - composer self-update
   - composer install --no-interaction --prefer-source --dev
 
-script: ./vendor/bin/phpunit --configuration ./build/travis-ci.xml
+script:
+  - phpunit --bootstrap tests/bootstrap.php tests
 
 php:
   - 5.6
