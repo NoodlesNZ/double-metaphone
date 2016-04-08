@@ -5,7 +5,7 @@ before_script:
   - composer install --no-interaction --prefer-source --dev
 
 script:
-  - phpunit --bootstrap tests/bootstrap.php tests
+  - phpunit --no-configuration --bootstrap tests/bootstrap.php tests
 
 php:
   - 5.6
