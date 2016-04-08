@@ -2,7 +2,7 @@
   "name" : "noodlesnz/double-metaphone",
   "description" : "This class implements a \"sounds like\" algorithm developed by Lawrence Philips which he published in the June, 2000 issue of C/C++ Users Journal. Double Metaphone is an improved version of Philips' original Metaphone algorithm.",
   "type": "library",
-  "homepage: : "https://github.com/NoodlesNZ/double-metaphone",
+  "homepage" : "https://github.com/NoodlesNZ/double-metaphone",
   "license" : "Apache-2.0",
   "authors" : [ {
     "name" : "Nick Le Mouton",
