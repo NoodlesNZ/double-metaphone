@@ -3,7 +3,7 @@ language: php
 install: composer install --no-interaction --prefer-source
 
 script:
-  - phpunit --no-configuration --bootstrap tests/bootstrap.php tests
+  - phpunit --no-configuration --bootstrap vendor/autoload.php tests
 
 php:
   - 5.6
