@@ -18,8 +18,6 @@ To add this package as a local, per-project dependency to your project, simply a
 
 ## Usage
 
-### Basic Timing
-
 ```php
 $d = new DoubleMetaphone('richard');
 
